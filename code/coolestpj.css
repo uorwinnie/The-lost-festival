@@ -1,0 +1,98 @@
+.bagan-era {
+  background-image: url("/images/bagan.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1024px;
+}
+.first-page {
+  text-align: center;
+  color: aliceblue;
+  font-size: 100px;
+  font-weight: lighter;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 10px;
+  top: 30%;
+  left: 18%;
+  position: absolute;
+}
+.intro {
+  margin: 50px auto;
+  text-align: center;
+  font-size: 60px;
+  line-height: 80px;
+}
+.thingyan-first {
+  display: inline;
+}
+.water-cartoon {
+  width: 200px;
+}
+.calendar {
+  display: flex;
+  margin-bottom: 50px;
+}
+.pics {
+  margin: 50px;
+  border: 2px solid black;
+  padding: 30px;
+}
+.border {
+  border: 2px solid black;
+}
+.meaning {
+  margin: 100px;
+  font-size: 25px;
+  font-weight: 550;
+  width: 1000px;
+  text-align: center;
+}
+.history-flower {
+  display: flex;
+  line-height: 80px;
+}
+.hero {
+  margin-top: 50px;
+  margin-left: 250px;
+  font-size: 50px;
+  text-align: center;
+}
+.box img {
+  border-radius: 15px;
+}
+.three-pics {
+  margin-top: 80px;
+  margin-left: 150px;
+  margin-bottom: 50px;
+  font-size: 50px;
+  text-align: center;
+}
+.box img:hover {
+  box-shadow: 10px 5px 5px rgb(155, 155, 155);
+  transition: all 400ms ease-in-out;
+}
+.religion {
+  padding: 50px;
+  font-size: 30px;
+  text-align: center;
+}
+.good-deed {
+  margin: 50px 100px;
+}
+.yellow {
+  background-color: #fffeda;
+}
+.against {
+  margin: 50px 200px;
+  box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+footer {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(254, 255, 165) 0%,
+    rgb(255, 232, 182) 90%
+  );
+  padding: 100px;
+  text-align: center;
+  font-size: 20px;
+}

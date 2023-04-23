@@ -1,0 +1,57 @@
+body,
+ul {
+  background-color: #fffeda;
+}
+ul {
+  margin: 20px;
+  padding: 10px;
+}
+.all-card {
+  display: flex;
+}
+.card {
+  width: 420px;
+  height: 530px;
+  background-color: white;
+  margin: 20px auto;
+  border-radius: 45px;
+  border: 2px solid black;
+}
+.myoma {
+  margin: 20px 30px;
+}
+.dance {
+  margin: 20px 25px;
+}
+.tgm {
+  margin: 20px 28px;
+}
+.about {
+  text-align: center;
+  max-width: 420px;
+  margin: auto 10px;
+}
+.songs {
+  background-color: white;
+  width: 933px;
+  margin: auto;
+}
+h2 {
+  text-align: center;
+  padding: 40px;
+}
+li {
+  list-style: none;
+  padding: 10px;
+  background-color: white;
+  color: black;
+  font-weight: 300;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 15px;
+  height: 30px;
+  width: 350px;
+}
+a {
+  font-style: italic;
+  font-weight: lighter;
+}

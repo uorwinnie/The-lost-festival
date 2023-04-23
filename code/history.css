@@ -1,0 +1,18 @@
+.story {
+  text-align: center;
+  margin: auto;
+  max-width: 1200px;
+  padding: 50px;
+}
+.bagan {
+  text-align: center;
+  margin: 100px;
+  display: flex;
+}
+.one {
+  margin: auto;
+}
+img {
+  padding: 10px;
+  box-shadow: inset #101516 0 0 0 16px;
+}
